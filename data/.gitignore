@@ -1,0 +1,3 @@
+# 学習記録(tutor.db)は個人データなので Git に入れない
+*
+!.gitignore
